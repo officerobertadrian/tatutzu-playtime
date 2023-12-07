@@ -46,3 +46,13 @@ TriggerEvent('chat:addSuggestion', '/playtime', 'Command to notify the admin how
 ```
 ensure tatutzu-playtime
 ```
+
+## Step 5
+### Now, as admin you can get the player playtime by the following command:
+```
+/playtime [id]
+```
+### Example:
+```
+/playtime 1
+```
